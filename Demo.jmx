@@ -4393,7 +4393,7 @@
               </elementProp>
               <elementProp name="influxdbUrl" elementType="Argument">
                 <stringProp name="Argument.name">influxdbUrl</stringProp>
-                <stringProp name="Argument.value">http://82.57.43.88:8086/write?db=jmeter_${__time(YYYYMMdd)}</stringProp>
+                <stringProp name="Argument.value">http://192.168.0.106:8086/write?db=jmeter_${__time(YYYYMMdd)}</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="application" elementType="Argument">
